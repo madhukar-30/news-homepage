@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Github repo](https://github.com/madhukar-30/news-homepage.git)
+- Live Site URL: [Live demo](https://madhukar-30.github.io/news-homepage/)
 
 ## My process
 
