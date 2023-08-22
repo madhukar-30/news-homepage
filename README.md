@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Github repo](https://github.com/madhukar-30/news-homepage.git)
+- Live Site URL: [Live demo](https://madhukar-30.github.io/news-homepage/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/madhukar-30)
+- Frontend Mentor - [@madhukar-30](https://www.frontendmentor.io/profile/madhukar-30)
 
 
 
